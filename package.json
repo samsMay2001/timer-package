@@ -1,0 +1,27 @@
+{
+  "name": "timer-package",
+  "version": "1.0.0",
+  "description": "Used to set timer in a react application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samsMay2001/timer-package.git"
+  },
+  "keywords": [
+    "timer",
+    "package",
+    "npm"
+  ],
+  "author": "Samuel Muhigirwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samsMay2001/timer-package/issues"
+  },
+  "homepage": "https://github.com/samsMay2001/timer-package#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
