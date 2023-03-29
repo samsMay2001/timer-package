@@ -1,5 +1,5 @@
 {
-  "name": "timer-package",
+  "name": "@flash/timer-package",
   "version": "1.0.0",
   "description": "Used to set timer in a react application",
   "main": "index.js",
