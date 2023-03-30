@@ -1,1 +1,1 @@
-export {timer} from './timerPackage '
+export {useTimer} from './timerPackage '

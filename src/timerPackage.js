@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 
-export function timer() {
+export function useTimer() {
   const [minutes, setMinutes] = useState(0);
   const [seconds, setSeconds] = useState(0);
   const [milliseconds, setMilliseconds] = useState(0);
